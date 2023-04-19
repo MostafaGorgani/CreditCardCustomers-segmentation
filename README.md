@@ -1,0 +1,2 @@
+# CreditCardCustomers-segmentation
+In this project, I have implemented the K-means cluster model on the data of credit card customers, and this implementation has been done with and without using the PCA dimension reduction model. McKinsey's study on credit card customers has also been used to determine the number of clusters, and I have tried to map the clusters described in the study on the reviewed data.
